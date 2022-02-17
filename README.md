@@ -1,6 +1,6 @@
 ## Headless Pi setup for Git Bash users on Windows
 #### This same process could be implemented with any OS and shell of choice, but that's beyond the scope..
-#### check out this video for visual steps on how to implement this code
+#### Check out this video for visual steps on how to implement this code: 
 
 
 ### In this repo:
